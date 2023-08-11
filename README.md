@@ -1,3 +1,4 @@
+
 <h1>😊 Satya Prakash Tiwari</h1>
 <br /> 
 
@@ -64,8 +65,8 @@ In addition to my web development expertise, I also have advanced C++ programmin
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/satyaprakash-web/Blogs-trust-frontend#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=satyaprakash-web&repo=Blogs-trust-frontend&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/satyaprakash-web/Blogs-trust-frontend#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=satyaprakash-web&repo=Blogs-trust-frontend&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/satyaprakash-web/Task-Reminder-Frontend,Blogs-trust-frontend,Weather#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=satyaprakash-web&repo=Task-Reminder-Frontend,Blogs-trust-frontend,Weather&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/satyaprakash-web/Task-Reminder-Frontend,Blogs-trust-frontend,Weather#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=satyaprakash-web&repo=Task-Reminder-Frontend,Blogs-trust-frontend,Weather&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
@@ -74,6 +75,8 @@ In addition to my web development expertise, I also have advanced C++ programmin
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://twitter.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" /></a>
-<a href="https://instagram.com/satya_prakash872" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satya_prakash872" /></a>
+<a href="https://instagram.com/https://www.instagram.com/satya_prakash872/" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/satya_prakash872/" /></a>
 <a href="https://www.linkedin.com/in/satyaprakash-web/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
+
+                
