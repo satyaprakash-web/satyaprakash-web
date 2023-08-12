@@ -30,11 +30,6 @@ In addition to my web development expertise, I also have advanced C++ programmin
                     
 
 <h2>Languages and Tools</h2> 
-<p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i= html,css,js, react,reux,nodejs,express,github,cpp,bootstrap&perline=9"  />
-</p>
-<br />
-
                     
 
 <p><a href="https://github.com/satyaprakash-web#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaprakash-web&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="satyaprakash-web" /></a>
@@ -59,8 +54,7 @@ In addition to my web development expertise, I also have advanced C++ programmin
 <br/>
 
 ---
-            
-
+          
                     
 
 <h2>Connect With Me</h2> 
