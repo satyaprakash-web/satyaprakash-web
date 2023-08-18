@@ -1,5 +1,5 @@
 
-<h1>😊 Satya Prakash Tiwari</h1>
+<h1>Satya Prakash Tiwari</h1>
 <br /> 
 
                     
