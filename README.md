@@ -27,7 +27,6 @@ In addition to my web development expertise, I also have advanced C++ programmin
 ---
 <br />
 
-                    
 
 <h2>Languages and Tools</h2> 
                     
@@ -54,8 +53,7 @@ In addition to my web development expertise, I also have advanced C++ programmin
 <br/>
 
 ---
-          
-                    
+                           
 
 <h2>Connect With Me</h2> 
 <p align="left">
