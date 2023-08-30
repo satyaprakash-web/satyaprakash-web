@@ -37,7 +37,6 @@ In addition to my web development expertise, I also have advanced C++ programmin
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/satyaprakash-web?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
 </p>
 
----
 <br />
 
 <h2>Languages and Tools</h2> 
