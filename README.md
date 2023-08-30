@@ -38,12 +38,7 @@ In addition to my web development expertise, I also have advanced C++ programmin
 <a href="https://github.com/satyaprakash-web#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=satyaprakash-web&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="satyaprakash-web" /></a>
 </p> 
 <br>
-<br />
 
-<p><a href="https://github.com/satyaprakash-web#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=satyaprakash-web&theme=nightowl#gh-dark-mode-only" alt="satyaprakash-web"/></a>
-<a href="https://github.com/satyaprakash-web#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=satyaprakash-web&theme=vue#gh-light-mode-only" alt="satyaprakash-web"/></a></p>
-<br/>
-                      
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://www.linkedin.com/in/satyaprakash-web/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
