@@ -23,6 +23,8 @@ In addition to my web development expertise, I also have advanced C++ programmin
     <td>https://12686871.satyaweather.pages.dev/</td>
   </tr>
 </table>
+
+
 <p align="left"> 
   <a href="https://github.com/satyaprakash-web?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/satyaprakash-web?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
