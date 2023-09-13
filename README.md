@@ -22,6 +22,10 @@ In addition to my web development expertise, I also have advanced C++ programmin
     <td>Weather Application</td>
     <td>https://12686871.satyaweather.pages.dev/</td>
   </tr>
+   <tr>
+    <td>Grocery Website </td>
+    <td>https://grocery-website-ten-delta.vercel.app/</td>
+  </tr>
 </table>
 
 
