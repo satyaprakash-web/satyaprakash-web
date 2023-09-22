@@ -9,6 +9,7 @@
 I have expertise developing online apps using a variety of technologies, such as HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB. I've worked on the front-end and back-end of online projects, and I'm comfortable with databases, APIs, and third-party libraries.
 In addition to my web development expertise, I also have advanced C++ programming knowledge, which allows me to create effective and optimal algorithms for online apps. In addition, I have a basic understanding of data structures, which helps me build scalable and effective solutions.</p>
 <br/>
+<h1> My Projects </h1>
 <table>
   <tr>
     <td>Blog Website</td>
