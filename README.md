@@ -32,14 +32,14 @@ How to reach me : satyaprakash1684@gmail.com
 
 
 <p align="left"> 
+   <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=satyaprakash-web&style=flat-square">
+</a>
   <a href="https://github.com/satyaprakash-web?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/satyaprakash-web?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
   
   <a href="https://github.com/satyaprakash-web?tab=repositories&sort=stargazers#gh-dark-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/satyaprakash-web?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=satyaprakash-web&style=flat-square">
-</a>
  
   <a href="https://github.com/satyaprakash-web?tab=followers#gh-light-mode-only">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/satyaprakash-web?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
