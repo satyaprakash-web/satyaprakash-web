@@ -10,6 +10,7 @@
 . In addition, I have a basic understanding of Algorithms, which helps me build scalable and effective solutions.</p>
 
 How to reach me : satyaprakash1684@gmail.com
+My Portfolio - https://satyaprakash-web.github.io/satya-prakash-portfolio/
 <h1> My Projects </h1>
 <table>
   <tr>
