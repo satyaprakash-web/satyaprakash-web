@@ -6,10 +6,10 @@
 
                     
 <p align="left">Hello! I am a full-stack web developer with excellent C++ knowledge and a solid understanding of data structures.
-. I've worked on the front-end and back-end technologies such as HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB for making online projects, and I'm comfortable with databases, APIs, and third-party libraries.
-. In addition, I have a basic understanding of Algorithms, which helps me build scalable and effective solutions.</p>
+. I've worked on front-end and back-end technologies such as HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB for doing online projects, and I'm comfortable with databases, APIs, and third-party libraries.
+. In addition, I have  a basic understanding of Algorithms, which helps me build scalable and practical solutions.</p>
 
-How to reach me : satyaprakash1684@gmail.com  <br />
+How to reach me: satyaprakash1684@gmail.com  <br />
 My Portfolio - https://satyaprakash-web.github.io/satya-prakash-portfolio/
 <h1> My Projects </h1>
 <table>
