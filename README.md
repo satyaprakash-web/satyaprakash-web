@@ -53,7 +53,6 @@ How to reach me: satyaprakash1684@gmail.com  <br />
 
 <h2>Languages and Tools</h2> 
                     
-
 <p><a href="https://github.com/satyaprakash-web#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaprakash-web&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="satyaprakash-web" /></a>
   <a href="https://github.com/satyaprakash-web#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaprakash-web&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="satyaprakash-web" /></a>
 </p>
@@ -68,6 +67,7 @@ How to reach me: satyaprakash1684@gmail.com  <br />
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://www.linkedin.com/in/satyaprakash-web/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <p>Leetcode Profile - https://leetcode.com/Satyaprakash934/</p>
 </p>
 
                 
