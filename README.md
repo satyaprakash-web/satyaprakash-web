@@ -67,7 +67,23 @@ How to reach me: satyaprakash1684@gmail.com  <br />
 <h2>Connect With Me</h2> 
 <p align="left">
 <a href="https://www.linkedin.com/in/satyaprakash-web/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  <p>Leetcode Profile - https://leetcode.com/Satyaprakash934/</p>
 </p>
+<br>
+<table>
+  <tr>
+    <td>Leetcode - https://leetcode.com/Satyaprakash934/ </td>
+  </tr>
+  <tr>
+    <td>Hackerrank - https://www.hackerrank.com/profile/satyaprakash1684</td>
+  </tr>
+  <tr>
+    <td>GeeksforGeeks - https://auth.geeksforgeeks.org/user/satyaprakash1684/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user</td>
+  </tr>
+  <tr>
+    <td>Code studio - https://www.codingninjas.com/studio/profile/Satyaprakash</td>
+  </tr>
+</table>
+
+
 
                 
