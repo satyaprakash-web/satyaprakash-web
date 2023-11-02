@@ -69,7 +69,7 @@ How to reach me: satyaprakash1684@gmail.com  <br />
 <a href="https://www.linkedin.com/in/satyaprakash-web/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
 <br>
-<table>
+<!-- <table>
   <tr>
     <td>Leetcode - https://leetcode.com/Satyaprakash934/ </td>
   </tr>
@@ -82,7 +82,7 @@ How to reach me: satyaprakash1684@gmail.com  <br />
   <tr>
     <td>Code studio - https://www.codingninjas.com/studio/profile/Satyaprakash</td>
   </tr>
-</table>
+</table> -->
 
 
 
