@@ -3,7 +3,6 @@
 <br /> 
                     
 `**(Developer / Programmer)**`
-
                     
 <p align="left">
 Full Stack Developer with 2+ years of experience building scalable and high-performance web applications using React.js, Node.js, NestJS, PostgreSQL, MongoDB, and JavaScript. Strong foundation in C++, Data Structures, and Algorithms with hands-on experience in frontend, backend, APIs, databases, and third-party integrations. Passionate about creating clean, efficient, and user-focused solutions that solve real-world problems.
