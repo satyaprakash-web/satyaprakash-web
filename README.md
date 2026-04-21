@@ -4,15 +4,13 @@
                     
 ⭐ React.js | Node.js | NestJS | PostgreSQL | MongoDB  
 🚀 Full Stack Developer | 2+ Years Experience  
-🌐 Portfolio: https://satya-fullstack-dev.netlify.app
+🌐 My Portfolio: <a href="https://satya-fullstack-dev.netlify.app/" target="_blank">View Portfolio</a> <br/>
 
 <p align="left">
 Full Stack Developer with 2+ years of experience building scalable and high-performance web applications using React.js, Node.js, NestJS, PostgreSQL, MongoDB, and JavaScript. Strong foundation in C++, Data Structures, and Algorithms with hands-on experience in frontend, backend, APIs, databases, and third-party integrations. Passionate about creating clean, efficient, and user-focused solutions that solve real-world problems.
 </p>
 
 💡 Top 10% on LeetCode | 5⭐ C++ on HackerRank <br/>
-
-🌐 My Portfolio: <a href="https://satya-fullstack-dev.netlify.app/" target="_blank">View Portfolio</a> <br/>
 
 📩 How to reach me: <a href="mailto:satyaprakash1684@gmail.com">satyaprakash1684@gmail.com</a> <br/>
 
