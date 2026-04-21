@@ -37,10 +37,13 @@ Full Stack Developer with 2+ years of experience building scalable and high-perf
 </table>
 
 
-<p align="left"> 
+<!-- <p align="left"> 
    <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=satyaprakash-web&style=flat-square">
-</a>
+</a> -->
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=satyaprakash-web&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
   <a href="https://github.com/satyaprakash-web?tab=repositories&sort=stargazers#gh-light-mode-only">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/satyaprakash-web?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
   
