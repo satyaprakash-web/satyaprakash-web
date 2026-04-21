@@ -5,11 +5,17 @@
 `**(Developer / Programmer)**`
 
                     
-<p align="left">Hello! I am a full-stack web developer with excellent C++ knowledge and a solid understanding of data structures.
-. I've worked on front-end and back-end technologies such as HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB for doing online projects, and I'm comfortable with databases, APIs, and third-party libraries.
-. In addition, I have  a basic understanding of Algorithms, which helps me build scalable and practical solutions.</p>
-My Portfolio: https://satya-fullstack-dev.netlify.app/ <br/>
-How to reach me: satyaprakash1684@gmail.com  <br />
+<p align="left">
+Full Stack Developer with 2+ years of experience building scalable and high-performance web applications using React.js, Node.js, NestJS, PostgreSQL, MongoDB, and JavaScript. Strong foundation in C++, Data Structures, and Algorithms with hands-on experience in frontend, backend, APIs, databases, and third-party integrations. Passionate about creating clean, efficient, and user-focused solutions that solve real-world problems.
+</p>
+
+💡 Top 10% on LeetCode | 5⭐ C++ on HackerRank <br/>
+
+🌐 My Portfolio: <a href="https://satya-fullstack-dev.netlify.app/" target="_blank">View Portfolio</a> <br/>
+
+📩 How to reach me: <a href="mailto:satyaprakash1684@gmail.com">satyaprakash1684@gmail.com</a> <br/>
+
+🚀 Open to Frontend / Full Stack opportunities
 
 <h1> My Projects </h1>
 <table>
